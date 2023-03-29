@@ -4,7 +4,7 @@
 # Script for burn data or audio to CD or DVD in Linux
 # usage: burn.sh [ /path/to/dir ]
 # usage: or create /tmp/burn/ and put there symbolic links
-# author: Aleksey K. <>
+# author: Aleksey K. <uu776080@gmail.com>
 # thanks to: Tomas M. <http://www.linux-live.org>
 # ------------------------------------------------------------------
 
